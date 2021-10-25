@@ -7,3 +7,6 @@ fatal: Authentication failed for 'https://github.com/108323001/test1/'
 
 推送到 https://github.com/108323001/test1
 #已完成，但有錯誤，請參見上文。
+
+我一個開始用了一個賬號然後跳了這個
+結果他你賬號了啊啊啊啊啊啊啊淦
